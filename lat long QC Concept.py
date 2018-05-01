@@ -69,3 +69,5 @@ plt.show()
 
 
 #Testing out Github committing changes
+
+#Testing working from a clone of the repository
